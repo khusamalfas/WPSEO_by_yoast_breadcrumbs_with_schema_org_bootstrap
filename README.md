@@ -6,7 +6,7 @@ A custom WPSEO by yoast frontend breadcrumbs class with correct breadcrumbs sche
 
 ## Installation
 
-### ...Or using it as a dependency on your theme
+### Using it as a dependency on your theme
 
 Place **custom_wpseo_breadcrumb_schema_bootstrap.php** in your WordPress theme folder `/wp-content/your-theme/`
 
