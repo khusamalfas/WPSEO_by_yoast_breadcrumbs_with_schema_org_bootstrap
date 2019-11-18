@@ -50,4 +50,4 @@ Update your `wp_nav_menu()` function in `header.php` to use the new walker by ad
 
 ## Bug tracker
 
-Have a bug? Please create an issue on GitHub at here
+Have a bug? Please create an issue on GitHub here https://github.com/khusamalfas/WPSEO_by_yoast_breadcrumbs_with_schema_org_bootstrap/issues
